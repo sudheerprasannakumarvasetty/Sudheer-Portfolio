@@ -140,7 +140,7 @@ function App() {
 
   const skills = {
     "Data Science & AI": {
-      skills: ["Python", "Pandas", "Matplotlib", "PyTorch", "TensorFlow", "Keras"],
+      skills: ["Python", "Pandas", "Matplotlib", "Scikit-learn", "TensorFlow", "PyTorch"],
       proficiency: ["Advanced", "Advanced", "Advanced", "Intermediate", "Familiar", "Intermediate"]
     },
     "Front-End Development": {
