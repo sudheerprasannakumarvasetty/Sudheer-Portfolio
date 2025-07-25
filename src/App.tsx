@@ -794,12 +794,6 @@ function App() {
               </div>
             </div>
           </div>
-          
-          <div className="mt-8 pt-8 border-t text-center border-gray-800/50 text-gray-500">
-            <p className="text-sm">
-              © 2024 Vasetty Sudheer Prasanna Kumar. All rights reserved.
-            </p>
-          </div>
         </div>
       </footer>
     </div>
