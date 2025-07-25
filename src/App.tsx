@@ -243,7 +243,7 @@ function App() {
                 alt="Vasetty Sudheer Prasanna Kumar"
                 className="w-48 h-100 rounded-full mx-auto mb-8 object-cover border-4 border-white/20 shadow-2xl backdrop-blur-sm"
                 style={{
-                  background: 'linear-gradient(145deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05))',
+                  background: 'none',
                   boxShadow: '0 10px 20px rgba(0, 0, 0, 0.3)'
                 }}
               />
