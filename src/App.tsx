@@ -159,9 +159,6 @@ function App() {
     "Tools & Others": Wrench
   };
 
-  const photographyGallery = [
-  ];
-
   const getProficiencyColor = (level: string) => {
     switch (level) {
       case 'Advanced': return 'bg-green-500/20 text-green-300 border-green-500/30';
