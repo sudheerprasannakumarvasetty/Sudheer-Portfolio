@@ -368,7 +368,7 @@ function App() {
               <p className={`text-xl leading-relaxed font-medium ${
                 isDarkMode ? 'text-white' : 'text-gray-900'
               }`}>
-                I'm a Full-Stack Developer passionate about blending intelligent systems with elegant UI/UX design.
+                I'm a Full-Stack Developer passionate about building intelligent systems and applying strong principles of graphic design.
               </p>
             </div>
 
