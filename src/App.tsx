@@ -153,7 +153,7 @@ function App() {
     },
     "Tools & Others": {
       skills: ["Git", "Linux", "DaVinci Resolve", "Adobe Lightroom"],
-      proficiency: ["Advanced", "Intermediate", "Advanced", "Advanced"]
+      proficiency: ["Intermediate", "Advanced", "Intermediate", "Advanced"]
     }
   };
 
