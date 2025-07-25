@@ -293,7 +293,6 @@ function App() {
               }`}></div>
             </div>
           </div>
-          <h1 className="text-5xl md:text-7xl font-bold mb-8 animate-slide-up">
           <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold mb-8 animate-slide-up">
             <span className={`bg-gradient-to-r bg-clip-text text-transparent whitespace-nowrap ${
               isDarkMode ? 'from-white via-gray-200 to-gray-400' : 'from-gray-900 via-gray-700 to-gray-500'
