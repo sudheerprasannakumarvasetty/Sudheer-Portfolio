@@ -400,7 +400,7 @@ function App() {
               }}
             >
               <p className={`text-lg leading-relaxed ${isDarkMode ? 'text-gray-300' : 'text-gray-700'}`}>
-                Beyond coding, I'm passionate about photography and visual storytelling, which enhances my eye for design and attention to detail in my development work. I'm actively seeking full-time opportunities where I can contribute to innovative projects that make a meaningful impact.
+                Beyond coding, I'm passionate about photography, graphic design, and visual storytelling, which enhance my eye for design and attention to detail in development. I'm actively seeking full-time opportunities where I can contribute to innovative projects that make a meaningful impact.
               </p>
               <div className="mt-6 pt-6 border-t border-gray-700/30">
                 <p className={`text-lg font-medium ${isDarkMode ? 'text-white' : 'text-gray-900'}`}>
