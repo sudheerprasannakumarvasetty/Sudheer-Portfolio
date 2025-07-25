@@ -144,8 +144,8 @@ function App() {
       proficiency: ["Advanced", "Advanced", "Advanced", "Intermediate", "Familiar", "Intermediate"]
     },
     "Front-End Development": {
-      skills: ["HTML", "CSS", "JavaScript", "React.js", "TypeScript", "Next.js"],
-      proficiency: ["Advanced", "Advanced", "Advanced", "Advanced", "Intermediate", "Intermediate"]
+      skills: ["JavaScript", "Bootstrap", "TypeScript", "React.js", "Next.js"],
+      proficiency: ["Advanced", "Advanced", "Advanced", "Intermediate", "Intermediate"]
     },
     "Cybersecurity": {
       skills: ["Penetration Testing", "SQL Injection", "VAPT", "Maltigo", "Ngrok"],
