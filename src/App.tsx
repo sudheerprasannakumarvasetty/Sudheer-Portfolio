@@ -199,7 +199,7 @@ function App() {
             <div className={`text-xl font-bold bg-gradient-to-r bg-clip-text text-transparent ${
               isDarkMode ? 'from-white to-gray-300' : 'from-gray-900 to-gray-600'
             }`}>
-              Vasetty Sudheer 
+              Sudheer's portfolio
             </div>
             
             {/* Desktop Navigation */}
