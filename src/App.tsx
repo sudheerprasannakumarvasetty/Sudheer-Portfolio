@@ -243,8 +243,8 @@ function App() {
                 alt="Vasetty Sudheer Prasanna Kumar"
                 className="w-48 h-100 rounded-full mx-auto mb-8 object-cover border-4 border-white/20 shadow-2xl backdrop-blur-sm"
                 style={{
-                  background: 'none',
-                  boxShadow: '0 10px 20px rgba(0, 0, 0, 0.3)'
+                  background: 'linear-gradient(145deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05))',
+                  boxShadow: '0 0 10px rgba(255, 255, 255, 0.05)'
                 }}
               />
               <div className="absolute inset-0 w-40 h-40 sm:w-48 sm:h-48 md:w-56 md:h-56 rounded-full mx-auto mb-8 pointer-events-none bg-gradient-to-tr from-white/10 to-transparent"></div>
