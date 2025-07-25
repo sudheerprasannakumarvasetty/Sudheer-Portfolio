@@ -731,7 +731,7 @@ function App() {
             
             <div className="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
               <a
-                href="/Resume.pdf"
+                href="/home/project/public/Resume.pdf"
                 download
                 className="inline-flex items-center px-4 py-2 rounded-lg transition-all duration-300 transform hover:scale-105 border border-gray-700/50 hover:bg-gray-800 text-gray-300"
               >
