@@ -241,7 +241,7 @@ function App() {
               <img
                 src="/Psp.JPG"
                 alt="Vasetty Sudheer Prasanna Kumar"
-                className="w-48 h-100 rounded-full mx-auto mb-8 object-cover border-4 border-white/20 shadow-2xl backdrop-blur-sm"
+                className="w-48 h-48 rounded-xl mx-auto mb-8 object-cover border-4 border-white/20 shadow-2xl backdrop-blur-sm"
                 style={{
                   background: 'linear-gradient(145deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05))',
                   boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.8), inset 0 1px 0 rgba(255, 255, 255, 0.1)'
