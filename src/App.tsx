@@ -614,19 +614,6 @@ function App() {
               </p>
             </div>
             
-            {/* Photography Gallery */}
-            <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 sm:gap-4 mb-8">
-              {photographyGallery.map((image, index) => (
-                <div key={index} className="aspect-square overflow-hidden rounded-lg">
-                  <img
-                    src={image}
-                    alt={`Photography sample ${index + 1}`}
-                    className="w-full h-full object-cover hover:scale-110 transition-transform duration-300"
-                  />
-                </div>
-              ))}
-            </div>
-            
             <div className="text-center">
               <a
                 href="https://www.instagram.com/sudheer.photography/"
