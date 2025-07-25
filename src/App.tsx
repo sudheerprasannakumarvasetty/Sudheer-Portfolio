@@ -555,22 +555,22 @@ function App() {
               return (
                 <div 
                   key={category} 
-                  className={`rounded-2xl p-6 sm:p-8 shadow-2xl border backdrop-blur-sm ${cardClasses}`}
+                  className={`rounded-xl p-4 sm:p-5 shadow-2xl border backdrop-blur-sm ${cardClasses}`}
                   style={{
                     background: 'linear-gradient(145deg, rgba(255,255,255,0.05), rgba(255,255,255,0.02))',
                     boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.8), inset 0 1px 0 rgba(255, 255, 255, 0.1)'
                   }}
                 >
-                  <div className="flex items-center mb-6">
-                    <IconComponent className="mr-4 text-white" size={28} />
-                    <h3 className="text-xl sm:text-2xl font-bold text-white">
+                  <div className="flex items-center mb-4">
+                    <IconComponent className="mr-3 text-white" size={20} />
+                    <h3 className="text-lg sm:text-xl font-bold text-white">
                       {category}
                     </h3>
                   </div>
-                  <div className="space-y-3">
+                  <div className="space-y-2">
                     {data.skills.map((skill, index) => (
                       <div key={index} className="flex items-center">
-                        <span className="text-base sm:text-lg text-gray-300">
+                        <span className="text-sm sm:text-base text-gray-300">
                           {skill}
                         </span>
                       </div>
