@@ -262,7 +262,7 @@ function App() {
           </div>
           <div className="flex flex-col sm:flex-row justify-center items-center gap-4 sm:gap-6 px-4">
             <a
-              href="/Resume.pdf"
+              href="/home/project/public/Resume.pdf"
               download
               className="inline-flex items-center px-6 sm:px-8 py-3 sm:py-4 rounded-xl transition-all duration-300 transform hover:scale-105 border shadow-2xl backdrop-blur-sm bg-gradient-to-r from-gray-800 to-gray-900 hover:from-gray-700 hover:to-gray-800 border-gray-700/50 text-sm sm:text-base w-full sm:w-auto justify-center"
               style={{
