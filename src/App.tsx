@@ -149,7 +149,7 @@ function App() {
     },
     "Cybersecurity": {
       skills: ["Penetration Testing", "SQL Injection", "VAPT", "Maltigo", "Ngrok"],
-      
+      proficiency: ["Intermediate", "Intermediate", "Intermediate", "Intermediate", "Intermediate"]
     },
     "Tools & Others": {
       skills: ["Git", "Linux", "DaVinci Resolve", "Adobe Lightroom"],
