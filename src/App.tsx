@@ -247,7 +247,7 @@ function App() {
                   boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.8), inset 0 1px 0 rgba(255, 255, 255, 0.1)'
                 }}
               />
-              <div className="absolute inset-0 w-40 h-100 sm:w-48 sm:h-48 md:w-56 md:h-56 rounded-full mx-auto mb-8 pointer-events-none bg-gradient-to-tr from-white/10 to-transparent"></div>
+              <div className="absolute inset-0 w-40 h-40 sm:w-48 sm:h-48 md:w-56 md:h-56 rounded-full mx-auto mb-8 pointer-events-none bg-gradient-to-tr from-white/10 to-transparent"></div>
             </div>
           </div>
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold mb-8 animate-slide-up px-4">
