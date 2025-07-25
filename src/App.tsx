@@ -168,6 +168,13 @@ function App() {
     }
   };
 
+  const photographyGallery = [
+    "https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&w=400"
+  ];
+
   const themeClasses = 'bg-black text-white';
   const cardClasses = 'bg-gradient-to-br from-gray-900/50 to-gray-800/30 border-gray-700/50';
 
