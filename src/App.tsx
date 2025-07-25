@@ -569,15 +569,9 @@ function App() {
                   </div>
                   <div className="space-y-3">
                     {data.skills.map((skill, index) => (
-                      <div key={index} className="flex items-center justify-between gap-2">
-                        <span className="text-base sm:text-lg text-gray-300 flex-1">
+                      <div key={index} className="flex items-center">
+                        <span className="text-base sm:text-lg text-gray-300">
                           {skill}
-                        </span>
-                        <span className={`px-2 sm:px-3 py-1 rounded-full text-xs font-medium border flex-shrink-0 ${
-                          getProficiencyColor(data.proficiency[index])
-                        }`}>
-                          <Star size={12} className="inline mr-1" />
-                          {data.proficiency[index]}
                         </span>
                       </div>
                     ))}
