@@ -48,7 +48,7 @@ function App() {
   const [displayedText, setDisplayedText] = useState('');
   const [currentIndex, setCurrentIndex] = useState(0);
   
-  const tagline = "Full-Stack Developer | AI & Data Science Enthusiast | Cybersecurity Explorer ";
+  const tagline = "Front-End Developer | AI & Data Science Enthusiast | Cybersecurity Explorer ";
 
   useEffect(() => {
     if (activeSection === 'home' && currentIndex < tagline.length) {
