@@ -726,7 +726,7 @@ function App() {
                 Vasetty Sudheer Prasanna Kumar
               </p>
               <p className="text-sm text-gray-400">
-                Full-Stack Developer | AI & Data Science Enthusiast
+                Front-End Developer | AI & Data Science Enthusiast
               </p>
             </div>
             
