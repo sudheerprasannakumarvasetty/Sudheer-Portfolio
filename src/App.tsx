@@ -271,7 +271,6 @@ function App() {
                 boxShadow: '0 10px 25px -5px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.1)'
               }}
             >
-              <Download className="mr-2" size={18} />
               <Eye className="mr-2" size={18} />
               View Resume
             </a>
