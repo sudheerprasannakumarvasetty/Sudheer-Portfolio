@@ -22,7 +22,8 @@ import {
   Sun,
   Moon,
   ChevronRight,
-  Star
+  Star,
+  Download
 } from 'lucide-react';
 
 interface Project {
