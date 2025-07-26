@@ -6,7 +6,7 @@ import {
   Twitter, 
   Mail, 
   Phone, 
-  Download,
+  Eye,
   ExternalLink,
   Leaf,
   Image,
@@ -271,6 +271,7 @@ function App() {
               }}
             >
               <Download className="mr-2" size={18} />
+              <Eye className="mr-2" size={18} />
               View Resume
             </a>
             <a
@@ -732,10 +733,9 @@ function App() {
             <div className="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
               <a
                 href="https://drive.google.com/file/d/1-y5vT3sknRnRt9sW5CfLzkzF1RDvxMQb/view?usp=sharing"
-                download
                 className="inline-flex items-center px-4 py-2 rounded-lg transition-all duration-300 transform hover:scale-105 border border-gray-700/50 hover:bg-gray-800 text-gray-300"
               >
-                <Download className="mr-2" size={16} />
+                <Eye className="mr-2" size={16} />
                 Resume
               </a>
               
