@@ -271,7 +271,7 @@ function App() {
               }}
             >
               <Download className="mr-2" size={18} />
-              Download Resume
+              View Resume
             </a>
             <a
               href="https://www.linkedin.com/in/sudheerprasannakumarvasetty/"
