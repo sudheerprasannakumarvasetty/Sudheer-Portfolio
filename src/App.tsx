@@ -92,19 +92,6 @@ function App() {
       icon: Leaf
     },
     {
-      title: "Background Remover Tool",
-      subtitle: "Automated Image Processing",
-      description: "A web application using Flask and Remove.bg API for seamless background removal with batch processing capabilities.",
-      problem: "Manual background removal is time-consuming and requires advanced photo editing skills.",
-      role: "Backend Developer & API Integrator",
-      process: "Integrated Remove.bg API, built Flask backend with file upload handling, implemented batch processing, and created an intuitive user interface.",
-      lessonsLearned: "Learned API integration best practices, file handling in web applications, and user experience optimization.",
-      techStack: ["Python", "Flask", "Remove.bg API", "JavaScript", "Bootstrap"],
-      github: "https://github.com/sudheerprasannakumarvasetty/background-remover.git",
-      image: "https://images.pexels.com/photos/9488230/pexels-photo-9488230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      icon: Image
-    },
-    {
       title: "Image Steganography Tool",
       subtitle: "Secure Data Hiding Solution",
       description: "Advanced steganography application built with Next.js & TypeScript to securely hide and extract messages from images.",
@@ -119,6 +106,19 @@ function App() {
       icon: Lock
     },
     {
+      title: "Background Remover Tool",
+      subtitle: "Automated Image Processing",
+      description: "A web application using Flask and Remove.bg API for seamless background removal with batch processing capabilities.",
+      problem: "Manual background removal is time-consuming and requires advanced photo editing skills.",
+      role: "Backend Developer & API Integrator",
+      process: "Integrated Remove.bg API, built Flask backend with file upload handling, implemented batch processing, and created an intuitive user interface.",
+      lessonsLearned: "Learned API integration best practices, file handling in web applications, and user experience optimization.",
+      techStack: ["Python", "Flask", "Remove.bg API", "JavaScript", "Bootstrap"],
+      github: "https://github.com/sudheerprasannakumarvasetty/background-remover.git",
+      image: "https://images.pexels.com/photos/9488230/pexels-photo-9488230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      icon: Image
+    },
+    /*{
       title: "Seekify Search Engine",
       subtitle: "Enhanced Search Experience",
       description: "A powerful search application with advanced filtering, real-time suggestions, and modern UI for enhanced user experience.",
@@ -131,7 +131,7 @@ function App() {
       github: "https://github.com/sudheerprasannakumarvasetty/Seekify.git",
       image: "https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=800",
       icon: Search
-    }
+    }*/
   ];
 
   const skills = {
