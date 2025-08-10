@@ -256,7 +256,7 @@ function App() {
                 boxShadow: '0 10px 25px -5px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.1)'
               }}
             >
-              <Eye className="mr-2" size={18} />
+              <Download className="mr-2" size={18} />
               Download Resume
             </a>
             <a
@@ -677,7 +677,7 @@ I am a highly analytical and collaborative problem-solver committed to continuou
                 href="Resume.pdf"
                 className="inline-flex items-center px-4 py-2 rounded-lg transition-all duration-300 transform hover:scale-105 border border-gray-700/50 hover:bg-gray-800 text-gray-300"
               >
-                <Eye className="mr-2" size={16} />
+                <Download className="mr-2" size={16} />
                 Download Resume
               </a>
               
