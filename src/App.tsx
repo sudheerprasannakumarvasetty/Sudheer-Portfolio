@@ -85,7 +85,7 @@ function App() {
       role: "Full-Stack Developer & ML Engineer",
       process: "Collected and labeled agricultural image datasets, implemented YOLOv9 architecture, trained the model with PyTorch, and deployed a web interface for real-time predictions.",
       lessonsLearned: "Gained expertise in computer vision, data preprocessing, and deploying ML models in production environments.",
-      techStack: ["Python", "PyTorch", "YOLOv9", "OpenCV", "Flask", "HTML/CSS"],
+      techStack: ["Python", "FastAPI/Flask", "YOLOv8", "Tailwind CSS", "React.js", "Vercel"],
       live: "https://weeddetection.vercel.app/",
       github: "https://github.com/sudheerprasannakumarvasetty/weed-detection",
       image: "https://images.pexels.com/photos/1666813/pexels-photo-1666813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
